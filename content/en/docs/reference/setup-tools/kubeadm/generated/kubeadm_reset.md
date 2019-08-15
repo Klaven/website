@@ -1,9 +1,9 @@
 
-Run this to revert any changes made to this host by 'kubeadm init' or 'kubeadm join'
+Performs a best effort revert of changes made to this host by 'kubeadm init' or 'kubeadm join'
 
 ### Synopsis
 
-Run this to revert any changes made to this host by 'kubeadm init' or 'kubeadm join'
+Run this to revert changes made to this host by 'kubeadm init' or 'kubeadm join'
 
 The "reset" command executes the following phases:
 ```
